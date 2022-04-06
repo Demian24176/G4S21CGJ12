@@ -1,0 +1,4 @@
+{"nombre":"javier","edad":24,"correo":"personal"}
+{"nombre":"fernando","edad":23,"correo":"no tiene"}
+{"nombre":"fernando","edad":23,"correo":"no tiene"}
+{"nombre":"maria","edad":23,"correo":"personal"}
